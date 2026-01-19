@@ -4,7 +4,7 @@
 #### Blog: [Life In Data](https://lifeindata.hashnode.dev)
 
 ## Projects:
-----
+
 ### NASDAQ-100 ML Stock Price Predictions
 [Analysis of macroeconomic metrics and prices of top twenty markets in NASDAQ 100 to predict behavior and returns using machine learning](https://github.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml)
 
@@ -21,5 +21,7 @@ The accuracy for each model was measured using different metrics. The classifica
 movements. For the regression model, the metrics used were R2 with a score of 0.4609 and Root Mean Squared Error (RMSE) of 0.0081 which reflects predictions close to the
 actual returns in the index.
 
+
+---
 ### Kepler Exoplanet Classification
 Add link to repo and description, findings, accuracy charts
