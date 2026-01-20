@@ -47,16 +47,16 @@ Tree based models performed much better than the other models demonstrating thei
      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_knn.png" width="250">
     </td>
     <td align="center">
-      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/cm_mlp.png" width="250">
+      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_mlp.png" width="250">
     </td>
     <td align="center">
-      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/cm_random_forest.png" width="250">
+      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_random_forest.png" width="250">
     </td>
     <td align="center">
-      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/cm_svm.png" width="250">
+      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_svm.png" width="250">
     </td>
     <td align="center">
-      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/cm_xgboost.png" width="250">
+      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_xgboost.png" width="250">
     </td>
   </tr>
 </table>
