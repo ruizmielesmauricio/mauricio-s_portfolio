@@ -56,7 +56,7 @@ Tree based models performed much better than the other models demonstrating thei
       <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_svm.png" width="250">
     </td>
     <td align="center">
-      <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_xgboost.png" width="250">
+      <img src="https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_xgboost.png" width="250">
     </td>
   </tr>
 </table>
