@@ -20,7 +20,7 @@ the data as follows: 80% training and 20% testing chronologically.
 The accuracy for each model was measured using different metrics. The classification model resulted with an accuracy of 74% and a F1-Score of 0.78 predicting bullish 
 movements. For the regression model, the metrics used were R2 with a score of 0.4609 and Root Mean Squared Error (RMSE) of 0.0081 which reflects predictions close to the
 actual returns in the index.
-
+**[Final Report](https://github.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml/blob/main/results/figures/Mauricio_Ruiz_Report.pdf)**
 
 ---
 ### Kepler Exoplanet Classification
