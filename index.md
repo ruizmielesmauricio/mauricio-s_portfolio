@@ -44,7 +44,7 @@ Tree based models performed much better than the other models demonstrating thei
   </tr>
   <tr>
     <td align="center">
-      <img src="<img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_knn.png" width="250">
+     <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/raw/main/Results/cm_knn.png" width="250">
     </td>
     <td align="center">
       <img src="https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/cm_mlp.png" width="250">
