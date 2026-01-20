@@ -20,7 +20,21 @@ the data as follows: 80% training and 20% testing chronologically.
 The accuracy for each model was measured using different metrics. The classification model resulted with an accuracy of 74% and a F1-Score of 0.78 predicting bullish 
 movements. For the regression model, the metrics used were R2 with a score of 0.4609 and Root Mean Squared Error (RMSE) of 0.0081 which reflects predictions close to the
 actual returns in the index.<br>
-**[Final Report](https://github.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml/blob/main/results/figures/Mauricio_Ruiz_Report.pdf)**
+**[Final Report](https://github.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml/blob/main/results/figures/Mauricio_Ruiz_Report.pdf)** <br>
+<table align="center">
+  <tr>
+    <th>Clasiffication Model Accuracy</th>
+    <th>Regression Model Predictions</th>
+  </tr>
+  <tr>
+    <td align="center">
+     <img src="https://raw.githubusercontent.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml/refs/heads/main/results/figures/clf_confusion_matrix.png" width="250">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml/refs/heads/main/results/figures/reg_actual_vs_pred_over_time.png" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 ### Kepler Exoplanet Classification
