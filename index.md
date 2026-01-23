@@ -4,6 +4,7 @@
 #### Blog: [Life In Data](https://lifeindata.hashnode.dev)
 
 ## Projects:
+{:toc}
 
 ### NASDAQ-100 ML Stock Price Predictions
 [Analysis of macroeconomic metrics and prices of top twenty markets in NASDAQ 100 to predict behavior and returns using machine learning](https://github.com/ruizmielesmauricio/nasdaq100-macroeconomic-ml)
