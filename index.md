@@ -3,7 +3,7 @@
 #### _Data Analyst and Journalist | Currently working at TikTok | Based in Dublin - Ireland_
 #### Blog: [Life In Data](https://lifeindata.hashnode.dev)
 
-## Projects:
+# Projects:
 * TOC
 {:toc}
 
