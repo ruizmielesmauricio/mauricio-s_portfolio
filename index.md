@@ -39,7 +39,7 @@ actual returns in the index.<br>
 </table>
 
 ---
-### Kepler Exoplanet Classification
+## Kepler Exoplanet Classification
 [Machine Learning for Exoplanet Detection Using KOI Cumulative and Stellar Properties DR25 Datasets](https://github.com/ruizmielesmauricio/exoplanets-ml)
 #### Summary:
 The main aim of this project is to use five different machine learning algorithms to classify accurately if the celestial objects captured by the Kepler satellite are actual exoplanets. In order to do this, two different datasets have been used to train the models: Kepler Objects of Interest (KOI) cumulative data and Kepler stellar properties stored in Keplers Input Catalog - KIC (DR25). The five algorithms selected for this research are: Random Forest, Extreme Gradient Boosting (XGBoost) , Support Vector Machine, K-Nearest Neighbors (KNN), and Multi-Layer Perceptron (MLP). The accuracy of these models was assessed with different metrics after performing exploratory data analysis, feature engineering and tuning the algorithms’ parameters adequately. 
