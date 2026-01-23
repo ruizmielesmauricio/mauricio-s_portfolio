@@ -4,8 +4,6 @@
 #### Blog: [Life In Data](https://lifeindata.hashnode.dev)
 
 ## Projects:
-## Table of contents
-
 * TOC
 {:toc}
 
