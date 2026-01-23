@@ -4,6 +4,9 @@
 #### Blog: [Life In Data](https://lifeindata.hashnode.dev)
 
 ## Projects:
+## Table of contents
+
+* TOC
 {:toc}
 
 ## NASDAQ-100 ML Stock Price Predictions
