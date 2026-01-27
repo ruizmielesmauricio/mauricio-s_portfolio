@@ -48,7 +48,7 @@ SVM performed well overall but struggled in classifying possible candidates (cla
 KNN showed moderate accuracy performance but due to the high multidimensionality did not perform as well as other models. This model also predicted a high number of cases incorrectly with high confidence reducing reliability in its results. 
 MLP achieved good accuracy, however, showed high confidence which leads to considering that needs to be calibrated in deeper level. This model also predicted incorrectly with high confidence which makes its results less reliable. 
 Tree based models performed much better than the other models demonstrating their robustness and ability to perform with the current data. However, all the models seemed to have a higher accuracy in class 0 (FP) due to higher sample of that specific class. 
-<br>**[Report](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/main/Results/Mauricio_Ruiz_Report.pdf)** <br>
+<br>**[Report](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/Mauricio_Ruiz_Report.pdf.pdf)** <br>
 
 <table align="center">
   <tr>
