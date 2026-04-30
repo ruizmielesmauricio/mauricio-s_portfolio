@@ -76,3 +76,20 @@ Tree based models performed much better than the other models demonstrating thei
     </td>
   </tr>
 </table>
+
+
+---
+## Big Four Thrsh Metal Dashboard
+[The Big Four of Thrash Metal in Data](https://github.com/ruizmielesmauricio/BigFour)
+#### Summary:
+This project presents an interactive data analytics dashboard exploring the musical and audience characteristics of the “Big Four” of thrash metal: Metallica, Megadeth, Slayer, and Anthrax. The analysis combines data from multiple sources, including MusicBrainz, Last.fm, and GetSongBPM, to build a unified dataset covering discographies, track popularity, and musical features such as tempo (BPM).
+A structured data pipeline was implemented to extract, clean, and merge the data, followed by feature engineering to generate album-level metrics such as total streams, listener counts, and average BPM. Exploratory data analysis was conducted to identify trends in popularity and musical style, including top tracks, dominant albums, and differences in tempo across bands.
+The final output is a fully interactive dashboard built with Streamlit and Plotly, allowing users to explore key insights, compare albums, and analyze band performance dynamically. Visualizations include popularity comparisons, tempo distributions, and relative dominance metrics using ratio matrices.
+The analysis highlights clear contrasts between the bands, with Metallica leading in overall popularity, while Slayer stands out for higher tempo characteristics. This project demonstrates practical skills in data engineering, API integration, feature engineering, and data visualization, delivering both analytical insights and a user-friendly interface for exploration.
+<br>**[Dashboard](https://github.com/ruizmielesmauricio/BigFour/blob/main/index.html)** <br>
+<br>**[Report](https://github.com/ruizmielesmauricio/BigFour/blob/main/Report.md)** <br>
+
+<div style="text-align:center;">
+  <h3 style="color:#e53935;">Preview</h3>
+  <img src="https://raw.githubusercontent.com/ruizmielesmauricio/BigFour/refs/heads/main/Images/section_1.png" width="650">
+</div>
