@@ -1,7 +1,7 @@
 
 # Mauricio Ruiz | Portfolio
 #### _Data Analyst and Journalist | Currently working at TikTok | Based in Dublin - Ireland_
-#### Blog: [Life In Data](https://lifeindata.hashnode.dev)
+#### Blog: [Life In Data](https://ruizmielesmauricio.github.io)
 
 # Projects:
 * TOC
