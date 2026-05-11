@@ -98,6 +98,8 @@ The analysis highlights clear contrasts between the bands, with Metallica leadin
 ## Death Discography Overview
 [Death Albums Overview](https://github.com/ruizmielesmauricio/death_discography)
 
+**[Dashboard](https://deathdiscography-h9p46woir6f86utjcw2ikh.streamlit.app)**
+
 #### Summary: 
 Built an interactive music analytics dashboard focused on the complete studio discography of the band Death using Python and Streamlit. The project involved collecting, cleaning, and integrating data from multiple APIs and sources, including Spotify, Last.fm, MusicBrainz, and AcousticBrainz.
 The workflow included retrieving official studio albums, filtering tracklists to retain only original releases, enriching the dataset with release dates, album artwork, listener statistics, playcounts, durations, and BPM information, and handling API inconsistencies and remastered-release metadata issues through custom data-cleaning logic.
