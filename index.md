@@ -104,19 +104,21 @@ The analysis highlights clear contrasts between the bands, with Metallica leadin
 Built an interactive music analytics dashboard focused on the complete studio discography of the band Death using Python and Streamlit. The project involved collecting, cleaning, and integrating data from multiple APIs and sources, including Spotify, Last.fm, MusicBrainz, and AcousticBrainz.
 The workflow included retrieving official studio albums, filtering tracklists to retain only original releases, enriching the dataset with release dates, album artwork, listener statistics, playcounts, durations, and BPM information, and handling API inconsistencies and remastered-release metadata issues through custom data-cleaning logic.
 The final dataset was transformed into an interactive Streamlit dashboard featuring:
-Album exploration and timeline analysis
-BPM and duration analytics
-Listener and playcount insights
-Track-level filtering and ranking
-Album-vs-album comparison tools
-Dynamic visualizations using Plotly
-The project demonstrates skills in:
-API integration
-Data wrangling and cleaning
-Exploratory data analysis
-Interactive dashboard development
-Python data tooling (Pandas, Requests, Plotly, Streamlit)
-GitHub version control and deployment through Streamlit Cloud
+- Album exploration and timeline analysis
+- BPM and duration analytics
+- Listener and playcount insights
+- Track-level filtering and ranking
+- Album-vs-album comparison tools
+- Dynamic visualizations using Plotly  
+
+
+The project demonstrates skills in:  
+1. API integration  
+2. Data wrangling and cleaning  
+3. Exploratory data analysis  
+4. Interactive dashboard development  
+5. Python data tooling (Pandas, Requests, Plotly, Streamlit)  
+6. GitHub version control and deployment through Streamlit Cloud  
 
 <div style="text-align:center;">
   <h3 style="color:#e53935;">Preview</h3>
