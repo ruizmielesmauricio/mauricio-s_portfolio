@@ -96,7 +96,8 @@ The analysis highlights clear contrasts between the bands, with Metallica leadin
 
 ---
 ## Death Discography Overview
-[Death Albums Overview](https://github.com/ruizmielesmauricio/death_discography)
+[Death Albums Overview](https://github.com/ruizmielesmauricio/death_discography)  
+[Report])https://github.com/ruizmielesmauricio/death_discography/blob/main/README.md)
 
 **[Dashboard](https://deathdiscography-h9p46woir6f86utjcw2ikh.streamlit.app)**
 
