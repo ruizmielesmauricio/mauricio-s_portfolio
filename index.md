@@ -121,8 +121,13 @@ The project demonstrates skills in:
 5. Python data tooling (Pandas, Requests, Plotly, Streamlit)  
 6. GitHub version control and deployment through Streamlit Cloud
 
----
+<div style="text-align:center;">
+  <h3 style="color:#e53935;">Preview</h3>
+  <img src="https://raw.githubusercontent.com/ruizmielesmauricio/death_discography/refs/heads/main/death_album_artworks/death.png" width="650">
+</div>
 
+
+---
 ## Ask My AI Portfolio Assistant
 
 Ask questions about my experience, projects, skills, education, and data analytics work.
@@ -135,9 +140,4 @@ Ask questions about my experience, projects, skills, education, and data analyti
     style="border: 1px solid #ddd; border-radius: 12px;"
     loading="lazy">
   </iframe>
-</div>
-
-<div style="text-align:center;">
-  <h3 style="color:#e53935;">Preview</h3>
-  <img src="https://raw.githubusercontent.com/ruizmielesmauricio/death_discography/refs/heads/main/death_album_artworks/death.png" width="650">
 </div>
