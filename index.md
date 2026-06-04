@@ -130,14 +130,24 @@ The project demonstrates skills in:
 ---
 ## Ask My AI Portfolio Assistant
 
-Ask questions about my experience, projects, skills, education, and data analytics work.
+<section style="margin-top: 40px; width: 100%;">
+  <h2>Ask My AI Portfolio Assistant</h2>
 
-<div style="width: 100%; height: 850px; margin-top: 24px;">
+  <p>
+    Ask questions about my experience, projects, skills, education, and data analytics work.
+  </p>
+
   <iframe
-    src="https://mauricio-ai-cv-assistant.streamlit.app"
-    width="100%"
-    height="850"
-    style="border: 1px solid #ddd; border-radius: 12px;"
-    loading="lazy">
+    src="https://mauricio-ai-cv-assistant.streamlit.app/?embed=true"
+    style="width: 100%; min-height: 900px; border: 1px solid #ddd; border-radius: 12px; background: white;"
+    frameborder="0"
+    scrolling="yes">
   </iframe>
-</div>
+</section>
+
+<a
+  href="https://mauricio-ai-cv-assistant.streamlit.app"
+  target="_blank"
+  style="display: inline-block; padding: 12px 18px; border-radius: 8px; border: 1px solid #ddd; text-decoration: none;">
+  Open AI Portfolio Assistant
+</a>
