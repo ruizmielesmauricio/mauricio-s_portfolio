@@ -119,7 +119,23 @@ The project demonstrates skills in:
 3. Exploratory data analysis  
 4. Interactive dashboard development  
 5. Python data tooling (Pandas, Requests, Plotly, Streamlit)  
-6. GitHub version control and deployment through Streamlit Cloud  
+6. GitHub version control and deployment through Streamlit Cloud
+
+---
+
+## Ask My AI Portfolio Assistant
+
+Ask questions about my experience, projects, skills, education, and data analytics work.
+
+<div style="width: 100%; height: 850px; margin-top: 24px;">
+  <iframe
+    src="https://mauricio-ai-cv-assistant.streamlit.app"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd; border-radius: 12px;"
+    loading="lazy">
+  </iframe>
+</div>
 
 <div style="text-align:center;">
   <h3 style="color:#e53935;">Preview</h3>
