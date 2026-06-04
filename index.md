@@ -125,7 +125,13 @@ The project demonstrates skills in:
   <h3 style="color:#e53935;">Preview</h3>
   <img src="https://raw.githubusercontent.com/ruizmielesmauricio/death_discography/refs/heads/main/death_album_artworks/death.png" width="650">
 </div>
+---
 
+## AI Assistant for my CV
+#### Summary
+Built an AI-powered CV and portfolio assistant using Streamlit, Gemini, ChromaDB, and a Retrieval-Augmented Generation architecture. The assistant reads structured Markdown files containing my experience, projects, skills, education, and certifications, then retrieves relevant information to answer questions about my background. It is embedded directly into my GitHub Pages portfolio so recruiters and hiring managers can interact with my profile through a live AI chatbot.
+
+**[Report](https://github.com/ruizmielesmauricio/personal-ai-cv-assistant/blob/main/report.md)**
 
 ---
 ## Ask My AI Portfolio Assistant
