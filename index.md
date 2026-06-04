@@ -131,7 +131,6 @@ The project demonstrates skills in:
 ## Ask My AI Portfolio Assistant
 
 <section style="margin-top: 40px; width: 100%;">
-  <h2>Ask My AI Portfolio Assistant</h2>
 
   <p>
     Ask questions about my experience, projects, skills, education, and data analytics work.
